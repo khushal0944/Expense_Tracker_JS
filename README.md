@@ -13,12 +13,13 @@ You can see a live demo of the Expense Tracker here: [**[https://trackjs.vercel.
 * **Calculate Balance:** Automatically calculates and displays your current balance.
 * **Visual Summary:** Provides a visual representation of your income and expenses.
 * **Local Storage:** Your data is saved locally in your browser, so it persists even after you close the page.
+* **Enhanced Type Safety:** Built with TypeScript for improved code quality and maintainability through static typing.
 
 ## Technologies Used
 
 * HTML
 * CSS
-* JavaScript
+* **TypeScript**
 
 ## Setup
 
